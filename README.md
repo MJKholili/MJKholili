@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJKholili
 - 👀 I’m interested in Monte Carlo Computational Method in Quantum Physics
 - 🌱 I’m currently learning Python and Tensor Flow
-- 💞️ I’m looking to collaborate on Few Body Particle Simulation
+- 💞️ I’m looking to collaborate on Few Body Simulation
 - 📫 How to reach me m.jauhar.kholili@brin.go.id
 
 <!---
